@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.log
+911.csv/
+emergency_dataset.csv
+data.csv
+training_data.csv
+emergency_model/
+.ipynb_checkpoints/
+results/
